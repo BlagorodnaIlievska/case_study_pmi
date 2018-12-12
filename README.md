@@ -9,15 +9,16 @@ It goes under the following order:
   - new_score_data.xlsx a test set for checking the model performances 
   
   
-  Used packages
-  import itertools
+  
+# Used packages
+  
 
-# Data Science
+Data Science
 pandas as pd
 import numpy as np
 import math
 
-# ML
+ML
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
@@ -26,7 +27,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import roc_curve, auc, f1_score
 
-# Plotting
+Plotting
 import seaborn as sns
 import matplotlib.pyplot as plt
  
