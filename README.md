@@ -13,21 +13,19 @@ It goes under the following order:
 # Used packages
   
 
-Data Science
-pandas as pd
-import numpy as np
-import math
+# Data Science
+- pandas 
+- numpy 
+- math
 
-ML
-from sklearn.model_selection import train_test_split, cross_val_score
-from sklearn.linear_model import LogisticRegression
-from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import accuracy_score, confusion_matrix, recall_score, precision_score
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import GridSearchCV
-from sklearn.metrics import roc_curve, auc, f1_score
+# ML
+- LogisticRegression
+- StandardScaler
+- accuracy_score, confusion_matrix, recall_score, precision_score, roc_curve, auc, f1_score
+- RandomForestClassifier
+- GridSearchCV
 
-Plotting
-import seaborn as sns
-import matplotlib.pyplot as plt
+# Plotting
+- seaborn
+- matplotlib
  
