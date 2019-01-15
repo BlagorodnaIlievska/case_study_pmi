@@ -1,4 +1,4 @@
-# PMI Case Study 
+# Predicting product success
 This is a repository that covers the source code for predicting product success on a hypothetical set of products 
 It goes under the following order:
   - data_exploration.ipynb for general overview of the data
